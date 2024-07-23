@@ -36,8 +36,11 @@ html, body {
           text-decoration: none;
           font-weight: bolder;}
 
-       header a:hover { text-decoration: underline; }
-       
+       header a:hover  { text-decoration: underline; }
+         footer a:hover {
+          text-decoration: underline;
+          color: yellow;
+         }
        section{
              padding-top: 10vh;
              padding-bottom: 10vh;
